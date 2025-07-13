@@ -19,9 +19,9 @@ List of features:
     Extra testpoints for GND, VBUS, 3.3V, 1.8V
     Design in KiCAD.
 
-Why did you make it?
+
 
 The design came to life initially to test my M.2 RP2350 board (https://www.tindie.com/products/pier42/pico2-m2). I needed a test platform to access all signals of the M.2 interface with E or A key. Single Board Computers with a M.2 port often don't access all pins, so I built this board and think it is very useful.
-What makes it special?
+
 
 M.2 carrier boards are generally for B or M key SSDs to other internal interfaces. I am not aware of any breakout board for M.2 modules with enhanced functionality. There are a few passive breakout boards available that simply connect all pins to standard headers.
